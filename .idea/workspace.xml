@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06de3055-9d54-4612-8c8b-3d0d42ca1644" name="Changes" comment="Add solution skeleton" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nandini3841&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nandini3841/LLM-Gateway.git",
+    "accountId": "23201b06-87b1-4ac6-b6e9-3e699d9b941f"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "Nandini3841",
+    "repository": "LLM-Gateway"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.nuget/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.API/Endpoints/ChatEndpoints.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Core/Chat/ChatModels.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Core/Chat/IChatProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Providers/Ollama/OllamaChatProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Providers/Ollama/OllamaOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Providers/ServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Workers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gateway.Workers/Worker.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3841114100168959" />
+      <entry key="MS500" value="3.6403025135487734" />
+      <entry key="S2" value="7.7414615357008865" />
+      <entry key="S5" value="10.497326863734765" />
+      <entry key="S10" value="15.60636597772008" />
+      <entry key="S30" value="29.34390085982019" />
+      <entry key="S60" value="37.49997898476681" />
+      <entry key="M2" value="50.44016367946658" />
+      <entry key="M5" value="84.80805122116584" />
+      <entry key="M10" value="112.85224035327074" />
+      <entry key="M15" value="125.90094933190997" />
+      <entry key="M30" value="141.4456128450175" />
+      <entry key="H1" value="150.31041465416652" />
+      <entry key="H2" value="155.04719059985513" />
+      <entry key="H4" value="157.49594954643817" />
+      <entry key="D1" value="159.57876282319637" />
+      <entry key="W1" value="159.93972712626027" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.246185892871021E-248" />
+      <entry key="S2" value="1.43548860960793E-62" />
+      <entry key="S5" value="1.831470384270522E-25" />
+      <entry key="S10" value="4.279568184140221E-13" />
+      <entry key="S30" value="7.535868591175337E-5" />
+      <entry key="S60" value="0.008680938077866532" />
+      <entry key="M2" value="0.09317155187001297" />
+      <entry key="M5" value="0.3870021089312323" />
+      <entry key="M10" value="0.6220949356257717" />
+      <entry key="M15" value="0.7287374868431619" />
+      <entry key="M30" value="0.8536612248680154" />
+      <entry key="H1" value="0.9239378901571351" />
+      <entry key="H2" value="0.9612168798752624" />
+      <entry key="H4" value="0.9804166868608781" />
+      <entry key="D1" value="0.9967091588913513" />
+      <entry key="W1" value="0.9995292154488169" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3376692797561733" />
+      <entry key="MS500" value="3.612373520193337" />
+      <entry key="S2" value="7.724329683758376" />
+      <entry key="S5" value="10.487043652208381" />
+      <entry key="S10" value="15.595707424740265" />
+      <entry key="S30" value="29.33400722245827" />
+      <entry key="S60" value="37.501401666547146" />
+      <entry key="M2" value="50.52705598620882" />
+      <entry key="M5" value="85.18948588959822" />
+      <entry key="M10" value="113.47034872994614" />
+      <entry key="M15" value="126.62666497205124" />
+      <entry key="M30" value="142.2975494906103" />
+      <entry key="H1" value="151.23343005488212" />
+      <entry key="H2" value="156.00793025217058" />
+      <entry key="H4" value="158.4761235014798" />
+      <entry key="D1" value="160.57543094417468" />
+      <entry key="W1" value="160.9392504647411" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3LKz3k650KgpmdbcrwIHQEsFhor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "RiderNuGetOptionsPageId",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06de3055-9d54-4612-8c8b-3d0d42ca1644" name="Changes" comment="" />
+      <created>1793217351316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793217351316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add solution skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution skeleton" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
