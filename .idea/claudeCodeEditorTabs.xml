@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="7d6e15f0-5808-4910-97c8-b37fba3d2c36" />
+    <option name="openSessionIds">
+      <list>
+        <option value="aa65c27c-762b-46f4-981c-a2a3fac0fe77" />
+        <option value="096c13b8-17e8-46dd-b534-875597acb07f" />
+        <option value="13308dc1-cb80-44a5-9033-2f714ba0b155" />
+        <option value="7d6e15f0-5808-4910-97c8-b37fba3d2c36" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="096c13b8-17e8-46dd-b534-875597acb07f" value="/sessions/2ba2609e-6254-4255-be96-545ec1b97205" />
+        <entry key="13308dc1-cb80-44a5-9033-2f714ba0b155" value="/sessions/69cf12d7-689f-4579-ac6c-eb7d5257a417" />
+        <entry key="7d6e15f0-5808-4910-97c8-b37fba3d2c36" value="/sessions/new" />
+        <entry key="aa65c27c-762b-46f4-981c-a2a3fac0fe77" value="/sessions/3b5f2971-9c52-4dc1-b11e-4d84e30a5e5d" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="096c13b8-17e8-46dd-b534-875597acb07f" value="API and worker appsettings" />
+        <entry key="13308dc1-cb80-44a5-9033-2f714ba0b155" value="Gateway.Workers Program.cs worker" />
+        <entry key="7d6e15f0-5808-4910-97c8-b37fba3d2c36" value="Claude Code" />
+        <entry key="aa65c27c-762b-46f4-981c-a2a3fac0fe77" value="LLM gateway project setup in Rider" />
+      </map>
+    </option>
+  </component>
+</project>
