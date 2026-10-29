@@ -1,0 +1,7 @@
+POST http://localhost:5188/v1/chat/completions
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "messages": [{ "role": "user", "content": "Say hi in five words." }]
+}
