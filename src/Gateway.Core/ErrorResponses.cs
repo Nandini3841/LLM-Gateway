@@ -12,3 +12,7 @@ public class Error
     public string? Param { get; set; } = null;
     public string? Code { get; set; }
 }
+
+public class ProviderException(string message, Exception? inner = null) : Exception(message, inner);
+
+   
