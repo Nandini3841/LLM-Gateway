@@ -2,8 +2,6 @@ namespace Gateway.Core.Chat;
 
 public interface IChatProvider
 {
-    Task<ChatCompletionResponse> CompleteAsync(ChatCompletionRequest request, CancellationToken ct);
+    Task<PromptResponse> CompleteAsync(PromptRequest req, CancellationToken cancellationToken);
 }
 
-/// <summary>The upstream provider failed or was unreachable.</summary>
-public sealed class ProviderException(string message, Exception? inner = null) : Exception(message, inner);
