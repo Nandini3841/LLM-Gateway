@@ -1,4 +1,6 @@
+using Gateway.API.Pipeline;
 using Gateway.Core;
+using Gateway.Core.Pipeline;
 using Microsoft.AspNetCore.Diagnostics;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,8 @@ builder.Services.AddOllamaProvider(builder.Configuration);
 builder.Services.AddControllers()
     .AddJsonOptions(o => o.JsonSerializerOptions.PropertyNamingPolicy = GatewayJson.NamingPolicy);
 builder.Services.AddHealthChecks();
+builder.Services.AddTransient<IPipelineStage, ProviderStage>();
+builder.Services.AddTransient<PipelineRunner>();
 var app = builder.Build();
 app.UseExceptionHandler(errors => errors.Run(async context =>
 {
